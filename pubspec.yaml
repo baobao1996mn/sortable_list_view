@@ -1,7 +1,6 @@
 name: sortable_list_view
 description: A new Flutter package.
 version: 0.0.1
-author: Huỳnh Gia Bảo, Trương <baobao1996mn@gmail.com>
 homepage: https://github.com/baobao1996mn/sortable_list_view
 
 environment:
